@@ -1,4 +1,4 @@
-Atliq Employees Presnece Insights (HR Analytics) Sept2024
+Atliq Employees Presence Insights (HR Analytics) Sept2024
 
  
 1. Exploratory Data Analysis (EDA)
