@@ -18,7 +18,8 @@ To enhance usability, I included line charts that illustrate trends in employee 
 
 The primary goal was to explore future requirements and understand the reasons behind employee leave, as well as to identify ways to minimize leave rates. Various factors,
  including seasonal trends and personal circumstances, may contribute to employee absences.
-From the analysis of the dashboard, I observed that many employees prefer to work from home on Fridays. 
+From the analysis of the dashboard, I observed that many employees prefer to work from home on Fridays.
+ 
 I recommend implementing a hybrid work model that allows all employees to work from home on Fridays or weekends, 
 which could potentially reduce the leave rate. Alternatively, a rotating hybrid model could be introduced, where some employees work in the office while others work from home for two to three days each week, switching places regularly. 
 This approach would optimize the use of company resources and could also lead to cost savings on office space.
